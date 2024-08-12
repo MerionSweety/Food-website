@@ -1,13 +1,23 @@
-Overview
+Food Website Image Slider Project
 
-This is a responsive image slider designed for a food website, showcasing dishes with their prices, names, and ratings.
+Project Overview:
 
-Features
+A responsive image slider for a food website, showcasing dishes with prices, names, and ratings. Users can navigate through high-quality food images using navigation controls.
 
-Responsive Design: Adapts to various screen sizes and devices.
+Key Features:
 
-Image Slider: Displays high-quality food images with navigation controls.
+Responsive design
+Image slider with navigation controls
+Price, name, and rating display
 
-Price Display: Shows the price of each dish below the image.
+Technologies Used:
 
-Name and Rating: Displays the name of the dish and its average rating (out of 5 stars).
+HTML
+CSS
+JavaScript
+
+Benefits:
+
+Enhances user experience with interactive food images
+Displays essential dish information
+Adapts to various screen sizes and devices
